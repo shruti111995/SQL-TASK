@@ -1,0 +1,6 @@
+"employeeid","firstname","lastname","email","phonenumber","hiredate","salary","departmentid","isactive","jobtitle"
+1,"Shruti","Upadhya","shrtup@gmail.com","987852410","2021-02-25","50000.00",1,False,"System Administrator"
+2,"Nidhi","SAHARE","nidhi@gmail.com","9889567414","2021-05-20","55000.00",4,True,"Software Engineer"
+3,"MONIKA","sharma","monsh@gamil.com","98752321","2019-02-23","60000.00",3,False,"Graphic Designer"
+4,"Vaishnavi","Nikule","vaishnavi@gmail.com","9850358547","2019-10-30","70200.00",2,True,"HR Executive"
+5,"Rushika","Kubhalkar","rsushu@gmail.com","9850358557","2020-09-03","66000.00",3,True,"Content Writer"
